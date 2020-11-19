@@ -17,3 +17,5 @@ This repo is where I will like to share things with you, no plan to use a blog o
 
 ## Update Frequency
 No Plan at all, depending on my own schedule.
+
+## JavaScript
