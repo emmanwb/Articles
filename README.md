@@ -19,5 +19,5 @@ This repo is where I will like to share things with you, no plan to use a blog o
 No Plan at all, depending on my own schedule.
 
 ## JavaScript
-[Promises](https://github.com/emmanwb/Articles/issues/1)
-[Regular Expressions in JavaScript](https://github.com/emmanwb/Articles/issues/2)
+- [Promises](https://github.com/emmanwb/Articles/issues/1)
+- [Regular Expressions in JavaScript](https://github.com/emmanwb/Articles/issues/2)
