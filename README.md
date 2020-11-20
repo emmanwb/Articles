@@ -20,3 +20,4 @@ No Plan at all, depending on my own schedule.
 
 ## JavaScript
 [Promises](https://github.com/emmanwb/Articles/issues/1)
+[Regular Expressions in JavaScript](https://github.com/emmanwb/Articles/issues/2)
